@@ -1,0 +1,1 @@
+{ "name": "cookie-batch-scaler", "version": "1.0.0", "description": "Scale a baking recipe to any batch size and convert grams to US cups.", "main": "index.js", "scripts": { "test": "node --test" }, "license": "MIT", "homepage": "https://empresscookies.com/recipe/" }
